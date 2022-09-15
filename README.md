@@ -51,6 +51,6 @@ CSS, Javascript, Handelbars, Express, mySQL
 Susan, Chris P., Sarah, Jackson, Aaron, Ricky
 
 ## Heroku Link
-https://salty-wildwood-18011.herokuapp.com/
+https://mod14techblogg.herokuapp.com/
 
 
