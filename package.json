@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chrisp1993/tech-blog.git"
+    "url": "git+https://github.com/rpethick0207/tech-blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chrisp1993/tech-blog/issues"
+    "url": "https://github.com/rpethick0207/tech-blog/issues"
   },
-  "homepage": "https://github.com/Chrisp1993/tech-blog#readme",
+  "homepage": "https://github.com/rpethick0207/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.5",
